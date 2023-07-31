@@ -195,20 +195,20 @@ Vamos começar falando dos bugs:
 
 Segue evidências dos Bugs:
 Bug 1  - App permite cadastro com dados inválidos (Nome, Email, CPF e Telefone)
-  ![image](https://github.com/maxalisson/Tinnova/assets/78100386/c7e00c30-a45d-4da4-895f-096f831be520)
 
-
-  Após cadastrar:
-![image](https://github.com/maxalisson/Tinnova/assets/78100386/73781884-b34d-495a-9a3f-cd570de350f5)
+![image](https://github.com/maxalisson/Tinnova/assets/78100386/2a870d11-39b7-4044-a178-c0f5ba0de0f7)
 
 
 Bug 2 - App permite cadastro com dados vazios (Email, CPF e Telefone).
 
-  ![image](https://github.com/maxalisson/Tinnova/assets/78100386/48d810be-a1f3-4e16-a0db-8ae4d5459185)
+![image](https://github.com/maxalisson/Tinnova/assets/78100386/2e98cfc9-029f-4009-b624-6a636e81f61b)
+
 
 Bug 3 - Na versão mobile na tela de listagem de usuários os nomes dos cabeçalhos possuem ":" diferente da versão web
 
-![image](https://github.com/maxalisson/Tinnova/assets/78100386/20c801c7-c938-4e56-bc2a-880ff9a156dd)
+
+![image](https://github.com/maxalisson/Tinnova/assets/78100386/dccff1d8-331f-4b19-a03e-0513255ea51b)
+
 
   
  # Melhorias 
@@ -228,11 +228,11 @@ Para Melhoria, segue sugestões:
 
 # Report Execução (Os testes que falharam foram devido aos bugs mencionados acima)
 
-![image](https://github.com/maxalisson/Tinnova/assets/78100386/b04ff65d-1e09-448c-ac8f-37eaffa59a1d)
+![image](https://github.com/maxalisson/Tinnova/assets/78100386/d048fbdc-aaa7-40f4-a0eb-05d0b0357d9c)
 
-![image](https://github.com/maxalisson/Tinnova/assets/78100386/afe4f84e-fed6-4d9b-88d2-cb76d0ce301a)
 
-  (Run Finished)
+![image](https://github.com/maxalisson/Tinnova/assets/78100386/3aede3ad-a61f-4097-9b00-721a34a2062e)
 
-![image](https://github.com/maxalisson/Tinnova/assets/78100386/630267e7-8eb1-4c97-a38c-f514d448021e)
+
+![image](https://github.com/maxalisson/Tinnova/assets/78100386/6f084398-342e-4f54-9610-82136a89e0df)
 
